@@ -34,7 +34,7 @@
   * SPL token launchpad [Here](https://github.com/soldrift/spl-token-launchpad) ✔
     
 - Private Products
-  * 🤖 Pumpfun Sniper(within 1~2 blocks and buy/sell functions, yellowstone gRPC) ✔
+  * 🤖 Pumpfun Sniper(within 0 blocks/first buy and buy/sell functions, yellowstone gRPC) ✔
   * 🤖 Pumpfun Bundler(with +27 wallets) ✔
   * 🤖 Pumpfun Volume Bot(with multi wallets and customized buy/sell strategy) ✔
   * 🤖 Raydium Sniper(with 1 second + BUY/SELL strategy by the TAKE PROFIT and STOP loss, advanced filters) ✔
