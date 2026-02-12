@@ -12,15 +12,11 @@
 ### 👀 Here're some products what I built.
 
 - Recently Completed
-  * 🤖 Time.fun Monitor
-  * 🤖 Multi Dex Volume Bot
-  * 🤖 Meteora Sniper Bot
-  * 🤖 Solana Twitter Sniper Bot
+  * 🤖 Bubblemap Bypass Engine(Solana) [here](https://github.com/soldrift/bubblemap-bypass-engine-solana) ✔
+  * 🤖 Jupiter Arbitrage Bot
  
 - Updating Projects
-  * 🤖 Solana Mev Bot
-  * 🤖 Solana Arbitrage Bot
-  * 🤖 Deepseek AI Trading Bot
+  * 🤖 Onchain Arbitrage Bot
 
 - Public Products
   
