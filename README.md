@@ -15,7 +15,7 @@
 ### ✓ Recently Completed
 
 - **Bubblemap Bypass Engine (Solana)** → [Repository](https://github.com/soldrift/bubblemap-bypass-engine-solana)
-- **Jupiter Arbitrage Bot**
+- **Jupiter Arbitrage Bot (OffChain)**
 
 ### ⟳ In Progress
 
